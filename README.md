@@ -13,6 +13,9 @@ Jimmy Song's Programming Bitcoin Github https://github.com/jimmysong/programming
 
 Princeton Bitcoin Course https://www.coursera.org/learn/cryptocurrency
 
+Princeton Bitcoin Book https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
+
+The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto https://www.amazon.com/gp/product/B00M6KGJ2K
 
 
 My Videos:
