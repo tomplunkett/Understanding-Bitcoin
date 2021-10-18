@@ -26,7 +26,7 @@ https://youtu.be/t5JGQXCTe3c
 https://www.youtube.com/watch?v=l9jOJk30eQs&feature=youtu.be
 
 https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X
-
+https://www.coindesk.com/bot-named-willy-did-mt-goxs-automated-trading-pump-bitcoin-price/
 
 
 My Videos:
