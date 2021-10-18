@@ -17,6 +17,15 @@ Princeton Bitcoin Book https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/reading
 
 The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto https://www.amazon.com/gp/product/B00M6KGJ2K
 
+Untold Story of Silk Road https://www.wired.com/2015/04/silk-road-1/
+
+https://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global
+
+https://youtu.be/t5JGQXCTe3c
+
+https://www.youtube.com/watch?v=l9jOJk30eQs&feature=youtu.be
+
+
 
 My Videos:
 
